@@ -1,4 +1,10 @@
 {
-  "version": "v3.0.66",
-  "url": "https://raw.githubusercontent.com/vijugo/OTA/main/veciseguro_esp32p4.bin"
+  "veciseguro_p4": {
+    "version": "v3.0.66",
+    "url": "https://.../veciseguro_esp32p4.bin"
+  },
+  "hopping_p4": {
+    "version": "v2.0",
+    "url": "https://.../hopping_p4_premium.bin"
+  }
 }
